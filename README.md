@@ -1,4 +1,4 @@
 # TableViewHeader
 TableViewHeaderView with autoLayout
 
-TableViewHeaderView 自动布局，行高变化
+TableViewHeaderView 自动布局，高度变化
